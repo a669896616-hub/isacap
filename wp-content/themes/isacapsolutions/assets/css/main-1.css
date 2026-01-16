@@ -1,0 +1,490 @@
+@charset "UTF-8";
+/* Reset básico */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+ /* .modal {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    background-color: rgba(255, 0, 0, 0.5) !important; /* Fondo rojo para que sea obvio */  
+
+body {
+  margin: 0;
+  font-family: "Monserrat";
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.navbar {
+  background-color: white;
+}
+.navbar .nav-link {
+  padding-right: 0 !important;
+}
+.navbar .img-logo {
+  max-width: 200px;
+}
+.navbar .navbar-toggler {
+  background-color: white;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  border-radius: 4px;
+  transform: scale(1.2);
+}
+.navbar .navbar-collapse {
+  padding-top: 0rem;
+  height: 17em;
+  background-color: white;
+  border-radius: 24px;
+  width: fit-content;
+  max-width: 100%;
+}
+.navbar .navbar-nav {
+  text-align: center;
+}
+.navbar .separator {
+  align-content: center;
+  color: black;
+  font-size: 1.2rem;
+  user-select: none;
+}
+.navbar .nav-link-a {
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 1rem 0;
+  text-transform: none;
+}
+.navbar .nav-link-a:hover {
+  color: #dfcca3;
+}
+.navbar .color-a {
+  color: rgb(0, 0, 0) !important;
+}
+@media (min-width: 992px) {
+  .navbar .color-a {
+    color: #000000 !important;
+  }
+}
+@media (min-width: 992px) {
+  .navbar .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0; /* Establece el padding derecho a cero */
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+}
+@media (min-width: 992px) {
+  .navbar body.inicio-con-fondo-compartido {
+    background-image: url("..assets/images/seccion1/Fondo.png");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .navbar .navbar-collapse {
+    padding-top: 0;
+    background-color: white;
+    border-radius: 24px;
+    flex-grow: 0 !important;
+    width: fit-content;
+    max-width: 100%;
+    height: 3.1em;
+  }
+  .navbar .separator {
+    align-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    margin: 0 0.8rem;
+    user-select: none;
+  }
+}
+
+/* ============================================================= */
+/* CSS FINAL CON EFECTOS DE TRANSICIÓN PARA EL TEXTO DEL SLIDER */
+/* ============================================================= */
+/* --- Estilos para el Menú de Navegación --- */
+/* 1. Hacemos que el contenedor del menú ocupe el espacio disponible
+      y lo usamos para centrar la lista de enlaces. */
+/* --- CSS DEFINITIVO PARA CENTRAR Y DISTRIBUIR EL MENÚ --- */
+.navbar-collapse {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 850px;
+  justify-content: space-between;
+}
+
+.navbar-nav .nav-item {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-nav .nav-item .nav-link {
+  padding: 0.5rem 1rem;
+}
+
+.swiper-slide {
+  position: relative;
+  overflow: hidden;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.slide-content {
+  /* --- REQUISITO 3: El contenido se limita al slide --- */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  /* --- ALINEADO A LA IZQUIERDA Y MÁS ESTRECHO EN TODAS LAS VISTAS --- */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  padding: 0 5%;
+  color: white;
+  /* --- NUEVO: Limitar ancho igual que en móvil --- */
+  max-width: 60%;
+  /* --- EFECTOS DE TRANSICIÓN --- */
+  /* Estado inicial: elementos ocultos */
+  opacity: 0;
+  transform: translateX(-30px);
+  transition: all 0.8s ease-in-out;
+}
+
+/* --- ANIMACIONES PARA SLIDES ACTIVOS --- */
+.swiper-slide-active .slide-content {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* --- ANIMACIONES ESPECÍFICAS PARA ELEMENTOS DE TEXTO --- */
+.slide-content h2 {
+  font-size: 3.1rem;
+  margin-bottom: 0px;
+  /* Animación del título */
+  opacity: 0;
+  transform: translateY(-5px);
+  transition: all 0.6s ease-out 0.2s; /* Delay de 0.2s */
+}
+
+.slide-content p {
+  font-size: 1.5rem;
+  max-width: 80%;
+  margin-bottom: 0;
+  /* Animación del párrafo */
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease-out 0.4s; /* Delay de 0.4s */
+}
+
+/* --- ESTADOS ACTIVOS PARA ELEMENTOS INDIVIDUALES --- */
+.swiper-slide-active .slide-content h2 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.swiper-slide-active .slide-content p {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.swiper-slide:not(.swiper-slide-active) .slide-content {
+  opacity: 0;
+  transform: translateX(30px);
+  transition: all 0.5s ease-in;
+}
+
+.swiper-slide:not(.swiper-slide-active) .slide-content h2 {
+  opacity: 0;
+  transform: translateY(-5px);
+  transition: all 0.4s ease-in;
+}
+
+.swiper-slide:not(.swiper-slide-active) .slide-content p {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease-in 0.1s;
+}
+
+/* --- MEJORAS DE RENDIMIENTO --- */
+.slide-content,
+.slide-content h2,
+.slide-content p {
+  will-change: transform, opacity;
+}
+
+/* --- RESPONSIVE: Ajustar animaciones en móviles --- */
+@media (max-width: 768px) {
+  .slide-content {
+    max-height: 100%;
+    max-width: 60%;
+    transform: translateX(-30px);
+  }
+  .slide-content h2 {
+    font-size: 0.7rem;
+    transform: translateY(-5px);
+  }
+  .slide-content p {
+    font-size: 0.7rem;
+    max-width: 80%;
+    transform: translateY(20px);
+  }
+}
+.profile-image {
+  width: 100%;
+  max-width: 580px;
+  height: 550px;
+  object-fit: cover;
+  object-position: right center;
+}
+@media (max-width: 767.98px) {
+  .profile-image {
+    height: 450px;
+    object-position: right center;
+  }
+}
+
+@media (min-width: 768px) {
+  .align-items-stretch > .col-md-6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    height: 100%;
+  }
+  .align-items-stretch > .col-md-6 > div,
+  .align-items-stretch > .col-md-6 > form {
+    height: 100%;
+  }
+}
+.img-offset .img-offset {
+  margin-left: 20px; /* ajusta según el espacio deseado */
+}
+
+.image-profile-2 {
+  width: 580px;
+  height: 600px;
+}
+
+.icon-social {
+  background-color: white;
+  color: rgb(78, 76, 76);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.icon-social:hover {
+  transform: scale(1.1);
+  background-color: lightgrey;
+  color: white;
+}
+
+@media (min-width: 350px) {
+  .texto-6 {
+    text-align: center;
+  }
+}
+@media (max-width: 780px) {
+  .buro-img-col, .condusef-img-col {
+    width: 50% !important;
+    max-width: 50%;
+    flex: 0 0 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .buro-img, .condusef-img {
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-bottom: 0;
+  }
+  .buro-img-col, .condusef-img-col {
+    order: 1;
+  }
+  .buro-img-col {
+    padding-right: 0;
+  }
+  .condusef-img-col {
+    padding-left: 0;
+  }
+  /* Fuerza ambas imágenes en la misma fila */
+  .row.justify-content-start.align-items-center.text-black.g-4 {
+    flex-wrap: wrap;
+  }
+}
+.scroll-section {
+  opacity: 0;
+  /* Mueve la sección 50px hacia abajo */
+  transform: translateY(50px);
+  /* Define la animación de transición para la opacidad y la posición */
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/*
+ * Esta clase se agregará con JavaScript cuando la sección sea visible.
+ * Define el estado final: totalmente visible y en su posición original.
+*/
+.scroll-section.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.bbso {
+  background-image: url("../images/bbso.jpg");
+}
+
+/*
+ * ========================================================================
+ * Estilos para el formulario de wp_login_form() dentro de una tarjeta Bootstrap
+ * ========================================================================
+ */
+#loginform {
+  padding: 0;
+  margin: 0;
+}
+
+#loginform p {
+  margin-bottom: 1rem;
+}
+
+#loginform label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+#loginform input[type=text],
+#loginform input[type=password] {
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.375rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#loginform input[type=text]:focus,
+#loginform input[type=password]:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+#loginform .forgetmenot {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#loginform .forgetmenot label {
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+#loginform input#rememberme {
+  width: 1em;
+  height: 1em;
+}
+
+#loginform input#wp-submit {
+  display: inline-block;
+  width: 100%;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: #0d6efd;
+  border: 1px solid #0d6efd;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.375rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#loginform input#wp-submit:hover {
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
+
+#loginform #nav,
+#loginform #backtoblog {
+  display: none;
+  text-align: center;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */

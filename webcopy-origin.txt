@@ -1,0 +1,292 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css?ver=1.11.3
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css?ver=5.3.6
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\bootstrap@5.3.6\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js?ver=5.3.3
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\bootstrap@5.3.6\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\jquery-validation@1.19.5\dist\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/localization/messages_es.min.js?ver=1.19.5
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\npm\jquery-validation@1.19.5\dist\localization\messages_es.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css?ver=6.5.2
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\font-awesome\6.5.2\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.css?ver=1.55
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\ResponsiveSlides.js\1.55\responsiveslides.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.55/responsiveslides.min.js?ver=1.55
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\ajax\libs\ResponsiveSlides.js\1.55\responsiveslides.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.1.min.js?ver=3.7.1
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://isacapinsurtech.online/
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\index.htm
+Content Type: text/html
+
+Uri: https://isacapinsurtech.online/login/
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\login\index.htm
+Content Type: text/html
+
+Uri: https://isacapinsurtech.online/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://isacapinsurtech.online/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://isacapinsurtech.online/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/css/main.css?ver=v696668bdb6427
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\css\main.css
+Content Type: text/css
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/css/main.css?ver=v696809068d828
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\css\main-1.css
+Content Type: text/css
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/docs/aviso-de-privacidad.pdf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\docs\aviso-de-privacidad.pdf
+Content Type: application/pdf
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/docs/buro-entidades-financieras.pdf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\docs\buro-entidades-financieras.pdf
+Content Type: application/pdf
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/docs/comisiones.pdf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\docs\comisiones.pdf
+Content Type: application/pdf
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/docs/derechos-arco.pdf
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\docs\derechos-arco.pdf
+Content Type: application/pdf
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/abogado.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\abogado.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/cdc.svg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\cdc.svg
+Content Type: image/svg+xml
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/contador.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\contador.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/creditos-auto.jpg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\creditos-auto.jpg
+Content Type: image/jpeg
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/creditos-nomina.jpg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\creditos-nomina.jpg
+Content Type: image/jpeg
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/creditos-perso.jpg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\creditos-perso.jpg
+Content Type: image/jpeg
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/familia-2.jpg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\familia-2.jpg
+Content Type: image/jpeg
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/fondo-3.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\fondo-3.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/house.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\house.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/idea.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\idea.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/isa-capital-1.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\isa-capital-1.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/isa-capital-2.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\isa-capital-2.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/isa-capital-3.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\isa-capital-3.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/isaLogo.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\isaLogo.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/logo-blanco.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\logo-blanco.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/Logo-Buro-1.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\Logo-Buro-1.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/logo-condusef.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\logo-condusef.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/managent.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\managent.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/money.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\money.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/planoFamilia.jpg
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\planoFamilia.jpg
+Content Type: image/jpeg
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/shield-1.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\shield-1.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/shield.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\shield.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/support.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\support.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/tipoFideicomiso-2.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\tipoFideicomiso-2.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/images/tipoFideicomiso.png
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\images\tipoFideicomiso.png
+Content Type: image/png
+
+Uri: https://isacapinsurtech.online/wp-content/themes/isacapsolutions/assets/js/main.js?ver=1.0
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-content\themes\isacapsolutions\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://isacapinsurtech.online/wp-includes/css/dist/block-library/style.min.css?ver=6.7.4
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://isacapinsurtech.online/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://isacapinsurtech.online/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://isacapinsurtech.online/wp-json/
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://isacapinsurtech.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fisacapinsurtech.online%2F
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://isacapinsurtech.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fisacapinsurtech.online%2F&format=xml
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://isacapinsurtech.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fisacapinsurtech.online%2Flogin%2F
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://isacapinsurtech.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fisacapinsurtech.online%2Flogin%2F&format=xml
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://isacapinsurtech.online/wp-json/wp/v2/pages/5
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\wp\v2\pages\5
+Content Type: application/json
+
+Uri: https://isacapinsurtech.online/wp-json/wp/v2/pages/8
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://unpkg.com/swiper@12.0.3/swiper-bundle.min.css?ver=11.0
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\swiper@12.0.3\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@12.0.3/swiper-bundle.min.js?ver=11.0
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\swiper@12.0.3\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/vue@3.5.26/dist/vue.global.js?ver=3.0.0
+File Name: C:\Users\admin\Desktop\httpsisacapinsurtech.online\isacapinsurtech.online\vue@3.5.26\dist\vue.global.js
+Content Type: text/javascript
+
